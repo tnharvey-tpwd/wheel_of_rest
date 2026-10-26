@@ -1,0 +1,55 @@
+Rest,Activity,Order,Color
+Physical Rest,Self-Care Rituals,1,#E3DDCF
+Physical Rest,Massage,2,#E3DDCF
+Physical Rest,"Cold/Hot Shower, Bath",3,#E3DDCF
+Physical Rest,Physical Activity,4,#E3DDCF
+Physical Rest,Stretching,5,#E3DDCF
+Physical Rest,Yoga,6,#E3DDCF
+Physical Rest,Nap,7,#E3DDCF
+Physical Rest,Sleep,8,#E3DDCF
+Mental Rest,Meditation,1,#D5DFCF
+Mental Rest,Journaling,2,#D5DFCF
+Mental Rest,Reflection Time,3,#D5DFCF
+Mental Rest,Deep Breathing,4,#D5DFCF
+Mental Rest,Grounding Exercises,5,#D5DFCF
+Mental Rest,Connection with Nature,6,#D5DFCF
+Mental Rest,Be Present,7,#D5DFCF
+Mental Rest,Declutter Space,8,#D5DFCF
+Emotional Rest,Emotional Release,1,#E6D7CF
+Emotional Rest,Forgiveness,2,#E6D7CF
+Emotional Rest,Alone Time,3,#E6D7CF
+Emotional Rest,Authenticity,4,#E6D7CF
+Emotional Rest,Honor Your Boundaries,5,#E6D7CF
+Emotional Rest,Self-Compassion,6,#E6D7CF
+Emotional Rest,Write Your Feelings Down,7,#E6D7CF
+Emotional Rest,Supportive Conversations,8,#E6D7CF
+Sensory Rest,Silence Time,1,#D5DEE8
+Sensory Rest,Dim Lights,2,#D5DEE8
+Sensory Rest,Limit Distractions,3,#D5DEE8
+Sensory Rest,Turn Off Notifications/Digital Devices,4,#D5DEE8
+Sensory Rest,Screen-Free Hour Before Bed,5,#D5DEE8
+Sensory Rest,Disconnect from Stimuli,6,#D5DEE8
+Spiritual Rest,Nurture Sense of Belonging,1,#D9D8E8
+Spiritual Rest,Engage with Something Greater,2,#D9D8E8
+Spiritual Rest,Community Service,3,#D9D8E8
+Spiritual Rest,Practice Gratitude,4,#D9D8E8
+Spiritual Rest,Silent Retreat,5,#D9D8E8
+Spiritual Rest,Affirmations,6,#D9D8E8
+Spiritual Rest,Meditation,7,#D9D8E8
+Spiritual Rest,Prayer,8,#D9D8E8
+Social Rest,Social Interactions,1,#E2D4D0
+Social Rest,Meaningful Conversations,2,#E2D4D0
+Social Rest,Time with Loved ones,3,#E2D4D0
+Social Rest,Moments Together,4,#E2D4D0
+Social Rest,Share Experiences,5,#E2D4D0
+Social Rest,Reconnect with Old Friends,6,#E2D4D0
+Social Rest,Nurture Friendships,7,#E2D4D0
+Social Rest,Group Activities,8,#E2D4D0
+Creative Rest,Enjoy Nature,1,#D1E0DA
+Creative Rest,Play Instruments,2,#D1E0DA
+Creative Rest,"Doodle, Draw, Color",3,#D1E0DA
+Creative Rest,"Sculpt, Make Pottery",4,#D1E0DA
+Creative Rest,"Paint, Sketch",5,#D1E0DA
+Creative Rest,"Outdoor Hobbies (kayaking, hiking, fishing, …)",6,#D1E0DA
+Creative Rest,Reading/Listening to Books for Pleasure,7,#D1E0DA
+Creative Rest,"Enjoy Beauty (Art, Architecture, Museums)",8,#D1E0DA
