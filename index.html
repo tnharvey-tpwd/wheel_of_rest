@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Wheel of Rest</title><link rel="stylesheet" href="css/styles.css"></head>
+<body><div class="app">
+<header class="topbar"><button class="icon-btn" id="menuBtn" aria-label="Open menu" title="Menu">☰</button><div class="toolbar" role="toolbar" aria-label="Wheel controls">
+<button class="icon-btn" id="zin" title="Zoom in" aria-label="Zoom in">⌕+</button><button class="icon-btn" id="zout" title="Zoom out" aria-label="Zoom out">⌕−</button><span id="zoomReadout">100%</span><i></i>
+<button class="icon-btn" id="left" title="Rotate left" aria-label="Rotate left">↶</button><button class="icon-btn" id="right" title="Rotate right" aria-label="Rotate right">↷</button><i></i>
+<div class="mode-toggle"><button id="pan" class="active" aria-pressed="true">✥ <span>Pan</span></button><button id="rotate" aria-pressed="false">⟳ <span>Rotate</span></button></div></div></header>
+<div class="scrim" id="scrim"></div><aside class="drawer" id="drawer" aria-hidden="true"><button class="icon-btn close" id="closeMenu" aria-label="Close menu">×</button><h1>Wheel of Rest</h1>
+<details open><summary>Settings</summary><section><label>Center title<input id="title" value="Wheel of Rest"></label><div class="row"><label>Category sizing<select id="sizing"><option value="equal">Equal categories</option><option value="count">By item count</option></select></label><label>Item font size<input id="fontSize" type="number" min="7" max="20" value="11"></label></div></section></details>
+<details><summary>Data</summary><section><label>CSV data<textarea id="csv" spellcheck="false"></textarea></label><div class="buttons"><button class="primary" id="update">Update wheel</button><button id="reset">Reset view</button></div></section></details>
+<details><summary>Export</summary><section><div class="buttons"><button id="esvg">Export SVG</button><button id="epng">Export PNG</button></div></section></details><div id="status"></div></aside>
+<main class="stage" id="stage"><svg id="svg" viewBox="0 0 1000 1000"><g id="viewport"><g id="chart"></g><g id="centerOverlay"></g></g></svg><div class="tip" id="tip"></div></main></div>
+<script type="module" src="js/app.js"></script></body></html>
